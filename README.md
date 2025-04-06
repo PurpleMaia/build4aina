@@ -12,7 +12,8 @@ Explore the projects jammed on throughout the weekend!
 
 | Team           | Names                                                                 | Link                        |
 |----------------|-----------------------------------------------------------------------|-----------------------------|
-| Ideas Hui      | Kimi Harada-Kato, Melissa Miura, Chanelle Loke Tolentino, Doreen Wong | [HI Tech Wayfinders’ Map](https://www.canva.com/design/DAGj0cxw2IA/ShTRpx9GkS8DkSjUAdTUOA/view?utm_content=DAGj0cxw2IA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfe83ecee48) |
+| Ideas Hui      | Kimi Harada-Kato, Melissa Miura, Chanelle Loke Tolentino, Doreen Wong | [HI Tech Wayfinders’ Map](https://www.canva.com/design/DAGj0cxw2IA/ShTRpx9GkS8DkSjUAdTUOA/view?)
+| Price Findah      | Donavan Kealoha, Olin Lagon | [Price Findah Deck](https://docs.google.com/presentation/d/1-24mrfTjIjqtuJdAUdfQQW6TCPsOFbqogfxTmgt499o/edit?usp=sharing) |
 | Sensors        | Josiah, Ikaika, Moi, Makana [more names to come]                                         | [Sensor Deck](https://www.canva.com/design/DAGj1ChjTC8/Rx_N3H9KoDEROdsOBke5Fw/view?utm_content=DAGj1ChjTC8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h985ff7c218)           |
 | Back End       | Raul, Chris [more names to come]                                                         | [Backend Deck](https://www.canva.com/design/DAGj1D5OBgs/UrNWhrYWwpoAIqODrRV-7Q/view?utm_content=DAGj1D5OBgs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h031448ec9a)         |
 | LLM            | David, Solomon [more names to come]                                                      | [LLM Deck](https://www.canva.com/design/DAGj0QAel8E/xKDMHDcjTRgeUhHNvQxEgQ/view?utm_content=DAGj0QAel8E&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h90701876cf)              |
