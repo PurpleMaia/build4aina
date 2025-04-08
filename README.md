@@ -2,7 +2,7 @@
 
 ![build4good-qr-code](https://github.com/user-attachments/assets/d03a8c8b-ae47-4326-874d-3e6f4f46f2e3)
 
-One part of the [Mauka2Makai Impact Challenge](https://purplemaia.org/mauka2makai/), Build4ʻĀina Hackathon was an event hosted by Purple Maiʻa on Oʻahu. Participants were invited to work on a KILO Dashboard, an innovative tool designed to seamlessly integrate kūpuna ʻike with modern technology for ahapuaʻa restoration.
+One part of the [Mauka2Makai Impact Challenge](https://purplemaia.org/mauka2makai/), Build4ʻĀina Hackathon was an event hosted by Purple Maiʻa on Oʻahu. Participants were invited to work on a KILO Dashboard, an innovative tool designed to seamlessly integrate kūpuna ʻike with modern technology for ahapuaʻa restoration. For more background on the challenge, check out the [information packet](https://drive.google.com/file/d/1QbReiSa9VGqoZcxYnjSYMrtkxjGPJTGD/view?usp=drive_link).
 
 # April 4-6th, 2025
 
