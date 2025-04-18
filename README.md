@@ -18,6 +18,6 @@ Explore the projects jammed on throughout the weekend!
 | Ideas Hui      |Chanelle Loke Tolentino, Doreen Wong, Kimi Harada-Kato, Melissa Miura| [HI Tech Wayfinders’ Map Deck](https://www.canva.com/design/DAGj0cxw2IA/ShTRpx9GkS8DkSjUAdTUOA/view?) |
 | Price Findah      | Donavan Kealoha, Olin Lagon | [Price Findah Deck](https://docs.google.com/presentation/d/1-24mrfTjIjqtuJdAUdfQQW6TCPsOFbqogfxTmgt499o/edit?usp=sharing) <br> [Deployment](https://actionsmatter.com/pm)|
 | Sensors        | Andrew Allinga, Brandon Askew, Corinne Okada Takara, Dylan Apera, Ikaika Bisho, Josiah Hester, Justin Goshi, Makana Askew, Moeiini Reilly | [Sensor Deck](https://drive.google.com/file/d/1qWPbMjFEGDXU8J5TgBvolSnjCdyxYGBF/view?usp=drive_link) |
-| Back End       | RChris Whited, Raul Goodness, Tara Goshi | [Backend Deck](https://drive.google.com/file/d/1y3TOkq8geegZ-T413zPt8tuRy_wJADrj/view?usp=drive_link) |
+| Back End       | Chris Whited, Raul Goodness, Tara Goshi | [Backend Deck](https://drive.google.com/file/d/1y3TOkq8geegZ-T413zPt8tuRy_wJADrj/view?usp=drive_link) |
 | LLM            | David Pickett, Donna David, Jamie Dabu, Solomon Posner | [LLM Deck](https://drive.google.com/file/d/1K2MdWodxf3nBrFGUC4Urh3BArzRZbM-4/view?usp=drive_link) |
 | Front End      | Ava, Brandon, Brandon Kinard, Chi, Eveline, Hyson Kaio, Jaden Kapali, Jeff Wong, Kawika Naweli, Sabrina, Tracy Bui | [Front End Deck](https://drive.google.com/file/d/1H-BvJXj1rRiGlrjrCVT5diMXyaNdJaHv/view?usp=drive_link) <br> [Deployment](https://ahupuaa-dashboard.labs.purplemaia.org/) |
